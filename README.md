@@ -1,15 +1,15 @@
-# Lan Tap <img align="right" src="https://github.com/CrashOverrideProductions/Tools/blob/main/Lan%20Tap/images/repo_logo.jpg?raw=true">
+# Lan Tap <img align="right" src="https://github.com/CrashOverrideProductions/LAN_Tap/blob/main/images/repo_logo.jpg?raw=true">
 
 ### Project: Passive Ethernet Tap <img alt="" align="right" src="https://img.shields.io/badge/Status-Prototype%20Phase-informational?style=flat&logoColor=white&color=73398D" />
 
 
 <!-- Repo Cover Image -->
 <p align="center">
-<img align="center" src="https://github.com/CrashOverrideProductions/Tools/blob/main/Lan%20Tap/images/ltpro.jpeg?raw=true" />
+<img align="center" src="https://github.com/CrashOverrideProductions/LAN_Tap/blob/main/images/ltpro.jpeg?raw=true" />
 </p>
 
 <!-- Repo Stats -->
-<img align="center" src="https://img.shields.io/github/commit-activity/m/CrashOverrideProductions/Tools"> <img align="center" src="https://img.shields.io/github/last-commit/CrashOverrideProductions/Tools"> <img align="center" src="https://img.shields.io/github/languages/code-size/CrashOverrideProductions/Tools"> <img align="center" src="https://img.shields.io/github/directory-file-count/CrashOverrideProductions/Tools">
+<img align="center" src="https://img.shields.io/github/commit-activity/m/CrashOverrideProductions/LAN_Tap"> <img align="center" src="https://img.shields.io/github/last-commit/CrashOverrideProductions/LAN_Tap"> <img align="center" src="https://img.shields.io/github/languages/code-size/CrashOverrideProductions/LAN_Tap"> <img align="center" src="https://img.shields.io/github/directory-file-count/CrashOverrideProductions/LAN_Tap">
 
 ### Details
 This Lan Tap is essentially a clone of the Great Scott Gadgets, Throwing Star LAN Tap
@@ -49,7 +49,7 @@ Use your favorite software (e.g., tcpdump or Wireshark) on the monitoring statio
 ---
 ### PCB Design
 <p>
-<img  src="https://github.com/CrashOverrideProductions/Tools/blob/main/Lan%20Tap/images/Lan_Tap_V1-TOP.png?raw=true" /> <img align="left" src="https://github.com/CrashOverrideProductions/Tools/blob/main/Lan%20Tap/images/Lan_Tap_V1-BOTTOM.png?raw=true" />
+<img  src="https://github.com/CrashOverrideProductions/LAN_Tap/blob/main/images/Lan_Tap_V1-TOP.png?raw=true" /> <img align="left" src="https://github.com/CrashOverrideProductions/LAN_Tap/blob/main/images/Lan_Tap_V1-BOTTOM.png?raw=true" />
 </p>
 
 
